@@ -1,0 +1,18 @@
+# Ignore .env file
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Optional npm cache directory
+.npm
+
+# Other files to ignore
+.DS_Store
+
+# Text file
+text

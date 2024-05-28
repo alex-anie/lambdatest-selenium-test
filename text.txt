@@ -1,0 +1,2 @@
+//Working script
+ "test": "mocha --no-timeouts --parallel --reporter mochawesome --reporter-options reportDir=C:/Users/HP/Desktop/alexanie/webdev/Lessons/selenium/seleniumDemo/test-report,reportFilename=customReportFilename"
